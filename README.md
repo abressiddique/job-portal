@@ -6,6 +6,7 @@ A job board platform that connects job seekers with employers. The platform allo
 
 ## Features
 
+
 - Job Listings with Filters and Sorting
 - Job Application System
 - User Profiles and Resume Management
