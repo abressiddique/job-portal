@@ -1,11 +1,11 @@
 # Job Board
 
+
 ## Overview
 
 A job board platform that connects job seekers with employers. The platform allows users to browse job listings, apply for positions, and manage their applications. Admins can post and manage job listings, while users can create profiles, save jobs, and track their applications. Built with Next.js, Stripe for payments, and Supabase for backend services.
 
 ## Features
-
 
 - Job Listings with Filters and Sorting
 - Job Application System
